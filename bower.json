@@ -1,0 +1,25 @@
+{
+  "name": "hello",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-canvas": "^3.0.0",
+    "purescript-refs": "^3.0.0",
+    "purescript-signal": "^9.0.0",
+    "purescript-globals": "^3.0.0",
+    "purescript-maybe": "^3.0.0",
+    "purescript-math": "^2.0.0",
+    "purescript-lens": "^3.0.0",
+    "purescript-partial": "^1.2.1",
+    "purescript-isometric": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
